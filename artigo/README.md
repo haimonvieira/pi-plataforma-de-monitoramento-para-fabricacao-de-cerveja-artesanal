@@ -194,13 +194,3 @@ Nunca usar:
 👉 Trabalhe na branch.
 👉 Publique via Pull Request.
 👉 Atualize a main depois do merge.
-
----
-
-Se você quiser, posso:
-
-* Criar uma versão ainda mais profissional (com badges e layout bonito)
-* Criar versão enxuta só com comandos essenciais
-* Ou adaptar para incluir OpenCV + Flask + LaTeX no mesmo fluxo
-
-Qual você prefere? 🚀
