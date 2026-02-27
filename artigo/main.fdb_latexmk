@@ -1,13 +1,14 @@
 # Fdb version 4
-["bibtex main"] 0 "main.aux" "main.bbl" "main" 1772217102.09816 0
+["bibtex main"] 0 "main.aux" "main.bbl" "main" 1772224835.104 0
+  "./referencias.bib" 1772224234 4300 9513d9b48b830f7074ee4d38aa520ecb ""
   "C:/Users/haimo/AppData/Local/Programs/MiKTeX/bibtex/bst/ieeetran/IEEEtran.bst" 1440622569 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "main.aux" 1772224226 5322 2d6893213c033a87ea2f95413aa2b2f2 "pdflatex"
+  "main.aux" 1772224834 5322 2d6893213c033a87ea2f95413aa2b2f2 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1772217100.17024 "d:/Fatec/PI/pi-plataforma-de-monitoramento-para-fabricacao-de-cerveja-artesanal/artigo/main.tex" "main.pdf" "main" 1772217102.09882 0
-  "C:/Users/haimo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1772170151 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+["pdflatex"] 1772224833.40199 "d:/Fatec/PI/pi-plataforma-de-monitoramento-para-fabricacao-de-cerveja-artesanal/artigo/main.tex" "main.pdf" "main" 1772224835.10442 0
+  "C:/Users/haimo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1772223883 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/haimo/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1772170121 13333849 e182b90a0b13f33c184b313ca1207907 ""
   "C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
   "C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc" 1256929440 3486 c7eadf5dcc57b3b2d11736679f6636ba ""
@@ -216,19 +217,19 @@
   "C:/Users/haimo/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty" 1761901070 15651 9d7c62df82cb29a555c00550babfe364 ""
   "C:/Users/haimo/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/haimo/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "d:/Fatec/PI/pi-plataforma-de-monitoramento-para-fabricacao-de-cerveja-artesanal/artigo/main.tex" 1772171851 2102 4c2db2a79c43c2829cd3f5c6b860949e ""
+  "d:/Fatec/PI/pi-plataforma-de-monitoramento-para-fabricacao-de-cerveja-artesanal/artigo/main.tex" 1772224224 2254 13c7a5e44cad1f0638d22330f86608d9 ""
   "images/base/cps-logo.png" 1772171851 2862 0d44aa0a5e9d83c87deaed8e377653d3 ""
   "images/base/fatec-rgt.png" 1772171851 9297 dff6e0deb04d7ecc5a3f8fc9288282c2 ""
   "images/base/governo-sp-secretaria-logo.png" 1772171851 53030 6a135a3f3d64a5d79c80849a638d8e81 ""
   "images/img_001.jpg" 1772171851 108195 29cfbd01866a3dfd12188a50e08b650c ""
-  "main.aux" 1772217101 3666 d24f17f7a7c57eb96c05f4cb202d01f1 "pdflatex"
-  "main.bbl" 0 -1 0 "bibtex main"
-  "main.out" 1772217101 1565 fe66636c9df0d3eb97198eaa608ce20e "pdflatex"
-  "main.tex" 1772171851 2102 4c2db2a79c43c2829cd3f5c6b860949e ""
+  "main.aux" 1772224834 5322 2d6893213c033a87ea2f95413aa2b2f2 "pdflatex"
+  "main.bbl" 1772224215 2769 736acef13844bb6237a2854b3ccfefee "bibtex main"
+  "main.out" 1772224834 3502 c79d9e76a4fa3aa607f1a025ec0facd4 "pdflatex"
+  "main.tex" 1772224224 2254 13c7a5e44cad1f0638d22330f86608d9 ""
   "preamble/commands.tex" 1772171851 1872 d5bbc6430dd67277abdec675e7316e75 ""
   "preamble/packages.tex" 1772171851 1466 e2ceb01b206d3c6cf108714c2fd016a7 ""
   "sections/conclusao.tex" 1772171851 701 5753943242a554fb825ce6fe044d52ad ""
-  "sections/estado-da-arte.tex" 1772171851 840 ac5d27ec79fde31c93a87ecda41e7e04 ""
+  "sections/estado-da-arte.tex" 1772223981 7050 7e4233b694b9acec5549cabf0e6ea3fa ""
   "sections/fundamentacao.tex" 1772171851 370 1fbc371427e11c4064b73f05973786e3 ""
   "sections/introducao.tex" 1772171851 937 f289ec646ffd36d28edfc36389012db4 ""
   "sections/metodologia.tex" 1772171851 2384 f39e5b9b52a0988eec6bc21d9c4854aa ""

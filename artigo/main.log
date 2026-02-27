@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.2.27)  27 FEB 2026 15:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.2.27)  27 FEB 2026 17:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -763,17 +763,17 @@ Package pdftex.def Info: images/base/governo-sp-secretaria-logo.png  used on inp
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
  [2{C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}]
 Underfull \hbox (badness 2790) in paragraph at lines 35--35
-[]|\T1/lmr/m/n/10.95 Automaï¿½ï¿½o do con-trole de
+[]|\T1/lmr/m/n/10.95 Automação do con-trole de
  []
 
 
 Underfull \hbox (badness 5878) in paragraph at lines 35--35
-[]|\T1/lmr/m/n/10.95 Ensino de bi-o-quï¿½-mica via
+[]|\T1/lmr/m/n/10.95 Ensino de bi-o-quí-mica via
  []
 
 
 Underfull \hbox (badness 1189) in paragraph at lines 38--38
-[]|\T1/lmr/bx/n/10.95 Integraï¿½ï¿½o com con-trole
+[]|\T1/lmr/bx/n/10.95 Integração com con-trole
  []
 
 
@@ -886,10 +886,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: C79D9E76A4FA3AA607F1A025EC0FACD4;3502.
  ) 
 Here is how much of TeX's memory you used:
- 25099 strings out of 467867
- 469199 string characters out of 5418334
- 952272 words of memory out of 5000000
- 53482 multiletter control sequences out of 15000+600000
+ 25141 strings out of 467867
+ 469976 string characters out of 5418334
+ 953733 words of memory out of 5000000
+ 53503 multiletter control sequences out of 15000+600000
  716057 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,19n,97p,775b,983s stack positions out of 10000i,1000n,20000p,200000b,200000s
