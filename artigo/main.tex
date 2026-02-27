@@ -1,0 +1,60 @@
+% main.tex - controlador do projeto LaTeX
+% Este arquivo contém apenas a estrutura principal e 
+% referencia os pacotes, comandos e cada seção individual.
+
+\documentclass[11pt,a4paper]{article}
+
+% pacotes e configurações gerais
+\input{preamble/packages}
+\input{preamble/commands}
+
+% metadados do documento
+\title{\vspace{0.6cm}\textbf{\Large Análise Computacional de Sistemas Complexos Utilizando Métodos Numéricos Avançados}}
+\author{
+    João da Silva$^{1}$, Maria Santos$^{2}$, Pedro Oliveira$^{3}$ \\
+    \small
+    $^{1}$Faculdade de Tecnologia do Estado de São Paulo \\
+    $^{2}$Universidade de São Paulo \\
+    $^{3}$Instituto de Pesquisas Tecnológicas \\
+    \textit{joao.silva@fatec.sp.gov.br, maria.santos@usp.br, pedro.oliveira@ipt.br}
+}
+\date{}
+
+\begin{document}
+
+% cabeçalho costumizado definido em preamble/commands.tex
+\pagestyle{fancy}
+
+\maketitle
+\thispagestyle{fancy}
+
+% -------Resumo / Abstract----------------------------------
+\section*{Resumo}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. \lipsum[1]
+
+\vspace{0.3cm}
+\noindent\textit{\textbf{Palavras-chave:}} Sistemas complexos, Métodos numéricos, Análise computacional, Modelagem matemática, Simulação
+
+\vspace{0.5cm}
+\noindent\rule{\textwidth}{0.5pt}
+\vspace{0.5cm}
+% ---------------------------------------------------------
+
+% seções do artigo (cada arquivo contém apenas seu conteúdo específico)
+\input{sections/introducao}
+\input{sections/objetivos}
+\input{sections/fundamentacao}
+\input{sections/estado-da-arte}
+\input{sections/metodologia}
+\input{sections/resultados}
+\input{sections/conclusao}
+
+% agradecimentos podem permanecer aqui ou em arquivo à parte
+\section*{Agradecimentos}
+Os autores agradecem à Faculdade de Tecnologia do Estado de São Paulo (FATEC) e ao Centro Paula Souza (CPS) pelo apoio institucional. Este trabalho foi parcialmente financiado pela FAPESP (proc. 2024/12345-6) e CNPq (proc. 301234/2024-0).
+
+% bibliografia
+\bibliographystyle{IEEEtran}
+\bibliography{references/referencias}
+
+\end{document}

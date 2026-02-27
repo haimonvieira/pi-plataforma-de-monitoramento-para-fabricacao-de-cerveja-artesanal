@@ -1,28 +1,40 @@
 # Template de Artigo LaTeX FATEC Registro
 
-Template LaTeX para artigos científicos do curso de Desenvolvimento de Software Multiplataforma (DSM) da FATEC Registro.
+Template LaTeX para artigos científicos do curso de Desenvolvimento de Software Multiplataforma (DSM) da FATEC Registro. A estrutura agora é modular e ideal para trabalho em equipe.
 
 ## 📋 Características
 
-- **Cabeçalho institucional** com logos da FATEC, Governo SP e CPS
-- **Formatação acadêmica** para artigos científicos
-- **Gerenciamento de referências** com BibTeX
-- **Suporte completo** para equações matemáticas
-- **Estrutura pronta** para desenvolvimento de artigos
+- **Documento principal (`main.tex`)** como controlador das seções
+- **Seções individualizadas** em arquivos dentro de `sections/`
+- **Preambulo separado** em `preamble/packages.tex` e `preamble/commands.tex`
+- **Pasta dedicada para figuras (`images/`), tabelas (`tables/`) e referências (`references/`)
+- **Compatível com latexmk** e fluxo multi-compilação tradicional
+- **Organização adequada a repositórios Git e colaboração**
 
 ## 📁 Estrutura de Diretórios
 
 ```
-paper/
-├── artigo.tex           # Documento principal
-├── referencias.bib      # Referências bibliográficas
-├── artigo.aux          # Arquivo auxiliar (gerado)
-├── artigo.bbl          # Bibliografia processada (gerado)
-├── artigo.pdf          # PDF final (gerado)
-├── imgs/               # Diretório de imagens
-│   └── base/          # Imagens base do template
-└── README.md          # Este arquivo
+artigo/
+├── main.tex                 # arquivo principal que inclui todo o restante
+├── referencias.bib          # bibliografia (preservada no nível superior)
+├── preamble/                # pacotes e comandos globais
+│   ├── packages.tex
+│   └── commands.tex
+├── sections/                # cada seção do documento em arquivo separado
+│   ├── introducao.tex
+│   ├── objetivos.tex
+│   ├── fundamentacao.tex
+│   ├── estado-da-arte.tex
+│   ├── metodologia.tex
+│   ├── resultados.tex
+│   └── conclusao.tex
+├── images/                  # todas as figuras do projeto
+│   └── base/                # logos e imagens de template
+├── tables/                  # tabelas externas (se desejar)
+├── references/              # outros arquivos de bibliografia ou estilos
+└── README.md                # este arquivo atualizado
 ```
+
 
 ## 🚀 Como Usar
 
