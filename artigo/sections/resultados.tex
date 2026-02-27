@@ -1,0 +1,49 @@
+% sections/resultados.tex
+\section{Resultados e Discussões}
+
+\lipsum[12-13] Os resultados obtidos demonstram a eficácia da metodologia proposta. A Tabela \ref{tab:resultados} apresenta uma comparação quantitativa entre diferentes abordagens.
+
+\begin{table}[H]
+\centering
+\caption{Comparação de desempenho entre diferentes métodos}
+\label{tab:resultados}
+\begin{tabular}{@{}lccc@{}}
+\toprule
+\textbf{Método} & \textbf{RMSE} & \textbf{Tempo (s)} & \textbf{Precisão (\%)} \\ \midrule
+Método Proposto & 0.0023 & 15.2 & 98.5 \\
+Euler Clássico & 0.0145 & 8.7 & 92.3 \\
+Runge-Kutta 4ª ordem & 0.0038 & 21.5 & 97.1 \\
+Método Adaptativo & 0.0031 & 18.9 & 97.8 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Análise Quantitativa}
+
+\lipsum[14] Os dados quantitativos revelam que o método proposto apresenta melhor desempenho em termos de precisão. A relação entre os parâmetros pode ser expressa por:
+
+\begin{equation}
+\eta = \frac{P_{out}}{P_{in}} \times 100\% = \frac{V_{out} \cdot I_{out}}{V_{in} \cdot I_{in}} \times 100\%
+\label{eq:efficiency}
+\end{equation}
+
+onde $\eta$ representa a eficiência do sistema, $P_{out}$ é a potência de saída e $P_{in}$ é a potência de entrada.
+
+\subsection{Análise Qualitativa}
+
+\lipsum[15] Do ponto de vista qualitativo, observou-se que o comportamento do sistema é fortemente influenciado pelas condições iniciais e pelos parâmetros de controle. A matriz de transformação pode ser representada como:
+
+\begin{equation}
+\mathbf{A} = \begin{bmatrix}
+a_{11} & a_{12} & a_{13} \\
+a_{21} & a_{22} & a_{23} \\
+a_{31} & a_{32} & a_{33}
+\end{bmatrix}
+\label{eq:matrix}
+\end{equation}
+
+\subsection{Discussão}
+
+\lipsum[16-17] A análise dos resultados indica que a abordagem proposta oferece vantagens significativas em relação aos métodos tradicionais. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula.
+
+Proin adipiscing porta tellus, ut feugiat nibh adipiscing sit amet. In eu justo a felis faucibus ornare vel id metus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.
