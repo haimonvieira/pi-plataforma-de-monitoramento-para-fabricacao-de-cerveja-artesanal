@@ -1,8 +1,82 @@
-% sections/estado-da-arte.tex
 \section{Estado da Arte}
 
-\lipsum[5] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Diversos estudos têm explorado a aplicação de métodos numéricos em sistemas complexos. Segundo \cite{johnson2024}, a utilização de técnicas avançadas permite uma melhor compreensão dos fenômenos físicos.
+A fabricação de cerveja artesanal depende criticamente da **conversão do amido em açúcares fermentescíveis**, processo mediado por enzimas como a \textbf{\(\beta\)-amilase} e \textbf{\(\alpha\)-amilase} durante a etapa de mosturação. Tradicionalmente, o **teste de iodo** é utilizado para verificar a presença de amido residual no mosto, mas sua aplicação manual é **subjetiva e pouco precisa**, dependendo da interpretação visual do operador. Nesse contexto, a **automatização desse teste** pode melhorar significativamente a **repetibilidade, precisão e eficiência** do processo.
 
-\lipsum[6] Os métodos clássicos de análise numérica, como o método de Euler e Runge-Kutta, têm sido amplamente utilizados na literatura \cite{brown2023}. Essas abordagens tradicionais estabeleceram as bases para o desenvolvimento de técnicas mais sofisticadas.
+Este Estado da Arte analisa os estudos existentes sobre **monitoramento da degradação do amido**, identificando metodologias, limitações e oportunidades para a **automatização do teste de iodo** na fabricação de cerveja artesanal.
 
-\lipsum[7] Métodos mais recentes incorporam técnicas de aprendizado de máquina e inteligência artificial \cite{zhang2025}, expandindo significativamente as possibilidades de análise e modelagem de sistemas complexos.
+---
+
+\subsection{Automação do Controle de Temperatura sem Monitoramento Bioquímico}
+\cite{parizotto2017} desenvolveu um sistema de automação para controle de **temperatura e tempo** nas etapas de mosturação e fervura, utilizando um **microcontrolador MSP-EXP432P401R**, **sensores PT-100** e **controladores PI**. O sistema demonstrou **precisão no controle de temperatura**, com tempo de assentamento de 10 minutos e erro nulo em regime permanente, além de um custo acessível (R\$ 2.626,30).
+
+No entanto, o estudo **não aborda o monitoramento da degradação do amido**, etapa crítica para garantir a qualidade do mosto. A **integração de um teste de iodo automatizado** poderia complementar o sistema, permitindo **ajustes em tempo real** com base na atividade enzimática, otimizando a conversão do amido em açúcares fermentescíveis.
+
+---
+
+\subsection{Uso do Teste de Iodo para Monitoramento Manual da Degradação do Amido}
+\cite{almeida2024} explorou o processo de fabricação de cerveja como ferramenta pedagógica para ensinar bioquímica, com foco na **degradação enzimática do amido** (amilose e amilopectina). O estudo utilizou **testes manuais de iodo** (2\%) para detectar amido residual, além de **refratômetros** para medir a concentração de açúcares e análises sensoriais para avaliar a conversão do amido.
+
+Embora o teste de iodo tenha se mostrado eficaz para **detectar amido residual**, sua aplicação manual é **subjetiva e pouco precisa** para uso industrial ou em automação. Além disso, o estudo **não aborda a automação do teste** ou sua integração a sistemas de controle de processo, limitando seu potencial para aplicações práticas na fabricação de cerveja artesanal.
+
+---
+
+\subsection{Análise Comparativa e Lacunas Identificadas}
+Os estudos analisados abordam aspectos **complementares, mas não integrados** no contexto da fabricação de cerveja artesanal. Enquanto \cite{parizotto2017} avança na **automação do controle de temperatura**, \cite{almeida2024} demonstra a importância do **teste de iodo para monitorar a degradação do amido**, porém de forma manual.
+
+A **Tabela \ref{tab:comparativo}** resume as principais diferenças e lacunas entre os estudos:
+
+\begin{table}[h]
+\centering
+\caption{Comparativo entre os estudos analisados.}
+\label{tab:comparativo}
+\begin{tabular}{|p{5cm}|p{5cm}|p{5cm}|}
+\hline
+\textbf{Aspecto} & \textbf{\cite{parizotto2017}} & \textbf{\cite{almeida2024}} \\ \hline
+\textbf{Foco principal} & Automação do controle de temperatura & Ensino de bioquímica via teste de iodo manual \\ \hline
+\textbf{Monitoramento do amido} & Não & Sim (manual, subjetivo) \\ \hline
+\textbf{Automação} & Sim (temperatura e tempo) & Não \\ \hline
+\textbf{Integração com controle de processo} & Parcial (sem feedback bioquímico) & Não \\ \hline
+\textbf{Lacuna principal} & Falta de monitoramento da degradação do amido & Falta de automação do teste de iodo \\ \hline
+\end{tabular}
+\end{table}
+
+A principal lacuna identificada é a **ausência de um sistema que automatize o teste de iodo e o integre ao controle de processo**. Isso representa uma **oportunidade para inovação**, permitindo ajustes em tempo real com base na atividade enzimática e melhorando a qualidade da cerveja artesanal.
+
+---
+
+\subsection{Justificativa para o Projeto Proposto}
+Diante das lacunas identificadas, este projeto propõe o desenvolvimento de uma **plataforma automatizada para o teste de iodo**, integrada a sistemas de controle de temperatura. A solução será projetada para:
+
+\begin{itemize}
+    \item **Eliminar a subjetividade**: Utilizar sensores ópticos ou espectrofotômetros miniaturizados para detectar automaticamente a cor da reação (violeta = amido presente; amarela = amido ausente).
+    \item **Integrar ao controle de processo**: Conectar os resultados do teste a um sistema de ajuste automático de temperatura ou tempo de mosturação.
+    \item **Ser acessível**: Empregar componentes de baixo custo (ex.: Arduino, Raspberry Pi, sensores ópticos) para viabilizar a solução para pequenos produtores.
+\end{itemize}
+
+A **automatização do teste de iodo** permitirá:
+\begin{itemize}
+    \item **Monitoramento em tempo real** da degradação do amido.
+    \item **Ajustes automáticos** no processo (ex.: prolongar a mosturação se houver amido residual).
+    \item **Melhoria na qualidade da cerveja**, com maior precisão e repetibilidade.
+\end{itemize}
+
+---
+
+\subsection{Tendências Recentes: Aprendizado de Máquina e Inteligência Artificial}
+Estudos recentes têm incorporado **técnicas de aprendizado de máquina e inteligência artificial** para análise e modelagem de sistemas complexos \cite{zhang2025}. Essas tecnologias podem ser aplicadas para:
+\begin{itemize}
+    \item **Otimizar parâmetros de processo** (ex.: temperatura ideal para ativação enzimática).
+    \item **Prever a qualidade da cerveja** com base em dados históricos de degradação do amido e temperatura.
+    \item **Automatizar a interpretação dos resultados** do teste de iodo, utilizando algoritmos de visão computacional para analisar a cor da reação.
+\end{itemize}
+
+A integração de **IA e aprendizado de máquina** ao sistema proposto pode expandir significativamente suas capacidades, tornando-o mais robusto e adaptável a diferentes condições de produção.
+
+---
+
+\subsection{Conclusão}
+Este Estado da Arte revelou que, embora existam avanços no **controle de temperatura** \cite{parizotto2017} e no **uso do teste de iodo para ensino** \cite{almeida2024}, **nenhum estudo automatiza esse teste** ou o integra a sistemas de monitoramento. O projeto proposto preenche essa lacuna, desenvolvendo uma solução que combina **automatização do teste de iodo** com **controle de processo**, contribuindo para a inovação na fabricação de cerveja artesanal.
+
+A incorporação de **técnicas de IA e aprendizado de máquina** \cite{zhang2025} pode ainda potencializar a plataforma, permitindo **análises preditivas** e **otimização contínua** do processo de mosturação.
+
+---

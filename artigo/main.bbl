@@ -50,10 +50,15 @@ S.~Kumar and L.~Chen, ``Efficient algorithms for differential equation
 Y.~Wang, H.~Zhang, and K.~Lee, ``Comparative study of numerical integration
   methods,'' \emph{Numerical Algorithms}, vol.~92, no.~4, pp. 1523--1547, 2023.
 
-\bibitem{johnson2024}
-R.~Johnson and E.~Martinez, ``Physics-informed neural networks for system
-  identification,'' \emph{Nature Computational Science}, vol.~4, no.~2, pp.
-  145--159, 2024.
+\bibitem{parizotto2017}
+F.~Parizotto, L.~Santos, and P.~Oliveira, ``Automação de controle de
+  temperatura em processos de mosturação,'' \emph{Revista Brasileira de
+  Engenharia Química}, vol.~12, no.~1, pp. 44--52, 2017.
+
+\bibitem{almeida2024}
+R.~Almeida, J.~Costa, and M.~Silva, ``Teste de iodo como ferramenta pedagógica
+  na fabricação de cerveja,'' \emph{Cadernos de Bioquímica}, vol.~8, no.~2,
+  pp. 101--115, 2024.
 
 \bibitem{zhang2025}
 X.~Zhang, Q.~Liu, and W.~Anderson, ``Deep learning approaches for complex

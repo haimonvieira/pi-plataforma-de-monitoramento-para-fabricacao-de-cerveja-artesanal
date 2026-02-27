@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.2.27)  27 FEB 2026 02:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.2.27)  27 FEB 2026 17:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -723,120 +723,77 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 29.
  (sections/introducao.tex
-
-LaTeX Warning: Citation `santos2024' on page 1 undefined on input line 5.
-
-
-LaTeX Warning: Citation `oliveira2023' on page 1 undefined on input line 5.
-
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 5.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <9> on input line 5.
-<images/base/fatec-rgt.png, id=55, 202.1151pt x 91.3011pt>
+<images/base/fatec-rgt.png, id=81, 202.1151pt x 91.3011pt>
 File: images/base/fatec-rgt.png Graphic file (type png)
 <use images/base/fatec-rgt.png>
 Package pdftex.def Info: images/base/fatec-rgt.png  used on input line 6.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
-<images/base/cps-logo.png, id=57, 63.1158pt x 42.3984pt>
+<images/base/cps-logo.png, id=83, 63.1158pt x 42.3984pt>
 File: images/base/cps-logo.png Graphic file (type png)
 <use images/base/cps-logo.png>
 Package pdftex.def Info: images/base/cps-logo.png  used on input line 6.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
-<images/base/governo-sp-secretaria-logo.png, id=58, 3144.74875pt x 557.08125pt>
+<images/base/governo-sp-secretaria-logo.png, id=84, 3144.74875pt x 557.08125pt>
 File: images/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use images/base/governo-sp-secretaria-logo.png>
 Package pdftex.def Info: images/base/governo-sp-secretaria-logo.png  used on input line 6.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
-[1
+ [1
 
-{C:/Users/haimo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc} <./images/base/fatec-rgt.png> <./images/base/cps-logo.png> <./images/base/governo-sp-secretaria-logo.png>]
-
-LaTeX Warning: Citation `silva2025' on page 2 undefined on input line 7.
-
-
-LaTeX Warning: Citation `brown2023' on page 2 undefined on input line 7.
-
-) (sections/objetivos.tex
+{C:/Users/haimo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc} <./images/base/fatec-rgt.png> <./images/base/cps-logo.png> <./images/base/governo-sp-secretaria-logo.png>]) (sections/objetivos.tex
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 7.
  (C:\Users\haimo\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-
-LaTeX Warning: Citation `kumar2024' on page 2 undefined on input line 10.
-
-
-LaTeX Warning: Citation `wang2023' on page 2 undefined on input line 10.
-
-) (sections/fundamentacao.tex) (sections/estado-da-arte.tex
-
-LaTeX Warning: Citation `johnson2024' on page 2 undefined on input line 4.
-
-
-LaTeX Warning: Citation `brown2023' on page 2 undefined on input line 6.
-
+)) (sections/fundamentacao.tex) (sections/estado-da-arte.tex
 File: images/base/fatec-rgt.png Graphic file (type png)
 <use images/base/fatec-rgt.png>
-Package pdftex.def Info: images/base/fatec-rgt.png  used on input line 7.
+Package pdftex.def Info: images/base/fatec-rgt.png  used on input line 11.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: images/base/cps-logo.png Graphic file (type png)
 <use images/base/cps-logo.png>
-Package pdftex.def Info: images/base/cps-logo.png  used on input line 7.
+Package pdftex.def Info: images/base/cps-logo.png  used on input line 11.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: images/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use images/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: images/base/governo-sp-secretaria-logo.png  used on input line 7.
+Package pdftex.def Info: images/base/governo-sp-secretaria-logo.png  used on input line 11.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
-[2{C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]
+ [2{C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}]
+Underfull \hbox (badness 2790) in paragraph at lines 35--35
+[]|\T1/lmr/m/n/10.95 Automação do con-trole de
+ []
 
-LaTeX Warning: Citation `zhang2025' on page 3 undefined on input line 8.
 
-) (sections/metodologia.tex
+Underfull \hbox (badness 5878) in paragraph at lines 35--35
+[]|\T1/lmr/m/n/10.95 Ensino de bi-o-quí-mica via
+ []
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 38--38
+[]|\T1/lmr/bx/n/10.95 Integração com con-trole
+ []
+
+
+Overfull \hbox (9.1472pt too wide) in paragraph at lines 32--41
+ [][] 
+ []
+
 File: images/base/fatec-rgt.png Graphic file (type png)
 <use images/base/fatec-rgt.png>
-Package pdftex.def Info: images/base/fatec-rgt.png  used on input line 26.
+Package pdftex.def Info: images/base/fatec-rgt.png  used on input line 49.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: images/base/cps-logo.png Graphic file (type png)
 <use images/base/cps-logo.png>
-Package pdftex.def Info: images/base/cps-logo.png  used on input line 26.
+Package pdftex.def Info: images/base/cps-logo.png  used on input line 49.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: images/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use images/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: images/base/governo-sp-secretaria-logo.png  used on input line 26.
+Package pdftex.def Info: images/base/governo-sp-secretaria-logo.png  used on input line 49.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
- [3]
-<images/img_001.jpg, id=92, 963.6pt x 542.025pt>
-File: images/img_001.jpg Graphic file (type jpg)
-<use images/img_001.jpg>
-Package pdftex.def Info: images/img_001.jpg  used on input line 52.
-(pdftex.def)             Requested size: 318.66948pt x 179.24924pt.
-) (sections/resultados.tex
-File: images/base/fatec-rgt.png Graphic file (type png)
-<use images/base/fatec-rgt.png>
-Package pdftex.def Info: images/base/fatec-rgt.png  used on input line 2.
-(pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
-File: images/base/cps-logo.png Graphic file (type png)
-<use images/base/cps-logo.png>
-Package pdftex.def Info: images/base/cps-logo.png  used on input line 2.
-(pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
-File: images/base/governo-sp-secretaria-logo.png Graphic file (type png)
-<use images/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: images/base/governo-sp-secretaria-logo.png  used on input line 2.
-(pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
- [4{C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}]
-File: images/base/fatec-rgt.png Graphic file (type png)
-<use images/base/fatec-rgt.png>
-Package pdftex.def Info: images/base/fatec-rgt.png  used on input line 24.
-(pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
-File: images/base/cps-logo.png Graphic file (type png)
-<use images/base/cps-logo.png>
-Package pdftex.def Info: images/base/cps-logo.png  used on input line 24.
-(pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
-File: images/base/governo-sp-secretaria-logo.png Graphic file (type png)
-<use images/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: images/base/governo-sp-secretaria-logo.png  used on input line 24.
-(pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
- [5 <./images/img_001.jpg>]) (sections/conclusao.tex
+[3]) (sections/metodologia.tex
 File: images/base/fatec-rgt.png Graphic file (type png)
 <use images/base/fatec-rgt.png>
 Package pdftex.def Info: images/base/fatec-rgt.png  used on input line 5.
@@ -849,44 +806,97 @@ File: images/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use images/base/governo-sp-secretaria-logo.png>
 Package pdftex.def Info: images/base/governo-sp-secretaria-logo.png  used on input line 5.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
- [6])
-No file main.bbl.
+ [4]
 File: images/base/fatec-rgt.png Graphic file (type png)
 <use images/base/fatec-rgt.png>
-Package pdftex.def Info: images/base/fatec-rgt.png  used on input line 60.
+Package pdftex.def Info: images/base/fatec-rgt.png  used on input line 41.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: images/base/cps-logo.png Graphic file (type png)
 <use images/base/cps-logo.png>
-Package pdftex.def Info: images/base/cps-logo.png  used on input line 60.
+Package pdftex.def Info: images/base/cps-logo.png  used on input line 41.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: images/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use images/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: images/base/governo-sp-secretaria-logo.png  used on input line 60.
+Package pdftex.def Info: images/base/governo-sp-secretaria-logo.png  used on input line 41.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
-[7] (main.aux)
+ [5{C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]
+<images/img_001.jpg, id=156, 963.6pt x 542.025pt>
+File: images/img_001.jpg Graphic file (type jpg)
+<use images/img_001.jpg>
+Package pdftex.def Info: images/img_001.jpg  used on input line 52.
+(pdftex.def)             Requested size: 318.66948pt x 179.24924pt.
+) (sections/resultados.tex
+File: images/base/fatec-rgt.png Graphic file (type png)
+<use images/base/fatec-rgt.png>
+Package pdftex.def Info: images/base/fatec-rgt.png  used on input line 20.
+(pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
+File: images/base/cps-logo.png Graphic file (type png)
+<use images/base/cps-logo.png>
+Package pdftex.def Info: images/base/cps-logo.png  used on input line 20.
+(pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
+File: images/base/governo-sp-secretaria-logo.png Graphic file (type png)
+<use images/base/governo-sp-secretaria-logo.png>
+Package pdftex.def Info: images/base/governo-sp-secretaria-logo.png  used on input line 20.
+(pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
+ [6{C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc} <./images/img_001.jpg>]
+File: images/base/fatec-rgt.png Graphic file (type png)
+<use images/base/fatec-rgt.png>
+Package pdftex.def Info: images/base/fatec-rgt.png  used on input line 48.
+(pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
+File: images/base/cps-logo.png Graphic file (type png)
+<use images/base/cps-logo.png>
+Package pdftex.def Info: images/base/cps-logo.png  used on input line 48.
+(pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
+File: images/base/governo-sp-secretaria-logo.png Graphic file (type png)
+<use images/base/governo-sp-secretaria-logo.png>
+Package pdftex.def Info: images/base/governo-sp-secretaria-logo.png  used on input line 48.
+(pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
+ [7]) (sections/conclusao.tex) (main.bbl
+File: images/base/fatec-rgt.png Graphic file (type png)
+<use images/base/fatec-rgt.png>
+Package pdftex.def Info: images/base/fatec-rgt.png  used on input line 39.
+(pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
+File: images/base/cps-logo.png Graphic file (type png)
+<use images/base/cps-logo.png>
+Package pdftex.def Info: images/base/cps-logo.png  used on input line 39.
+(pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
+File: images/base/governo-sp-secretaria-logo.png Graphic file (type png)
+<use images/base/governo-sp-secretaria-logo.png>
+Package pdftex.def Info: images/base/governo-sp-secretaria-logo.png  used on input line 39.
+(pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
+ [8])
+File: images/base/fatec-rgt.png Graphic file (type png)
+<use images/base/fatec-rgt.png>
+Package pdftex.def Info: images/base/fatec-rgt.png  used on input line 62.
+(pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
+File: images/base/cps-logo.png Graphic file (type png)
+<use images/base/cps-logo.png>
+Package pdftex.def Info: images/base/cps-logo.png  used on input line 62.
+(pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
+File: images/base/governo-sp-secretaria-logo.png Graphic file (type png)
+<use images/base/governo-sp-secretaria-logo.png>
+Package pdftex.def Info: images/base/governo-sp-secretaria-logo.png  used on input line 62.
+(pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
+ [9] (main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: FE66636C9DF0D3EB97198EAA608CE20E;1565.
+(rerunfilecheck)             Checksum: C79D9E76A4FA3AA607F1A025EC0FACD4;3502.
  ) 
 Here is how much of TeX's memory you used:
- 25099 strings out of 467867
- 469199 string characters out of 5418334
- 952271 words of memory out of 5000000
- 53482 multiletter control sequences out of 15000+600000
+ 25141 strings out of 467867
+ 469976 string characters out of 5418334
+ 953733 words of memory out of 5000000
+ 53503 multiletter control sequences out of 15000+600000
  716057 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 89i,18n,97p,580b,873s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.pfb><C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb>
-Output written on main.pdf (7 pages, 484233 bytes).
+ 89i,19n,97p,775b,983s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.pfb><C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/haimo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb>
+Output written on main.pdf (9 pages, 528472 bytes).
 PDF statistics:
- 208 PDF objects out of 1000 (max. 8388607)
- 29 named destinations out of 1000 (max. 500000)
- 129 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 277 PDF objects out of 1000 (max. 8388607)
+ 47 named destinations out of 1000 (max. 500000)
+ 177 words of extra memory for PDF output out of 10000 (max. 10000000)
 
